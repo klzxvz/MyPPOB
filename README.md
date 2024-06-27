@@ -6,3 +6,8 @@ Aplikasi PPOB merupakan sebuah sistem untuk melakukan transaksi pembayaran secar
 Fitur Utama
 - Pembelian Pulsa: Pengguna dapat membeli pulsa untuk berbagai provider telekomunikasi.
 - Pembayaran Tagihan: Pembayaran tagihan listrik, dan tagihan lainnya dapat dilakukan melalui aplikasi ini.
+
+Lisensi
+Proyek ini dilisensikan di bawah lisensi MIT. Silakan lihat file LICENSE untuk detail lebih lanjut.
+
+copyright by AryonoPrihandito 2024
