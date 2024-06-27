@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MyPPOB</string>
+    <string name="banner_image_desc">Banner Promosi</string>
+    <string name="pulsa_icon_desc">Ikon untuk Pulsa</string>
+    <string name="paket_data_icon_desc">Ikon untuk Paket Data</string>
+    <string name="listrik_icon_desc">Ikon untuk Listrik</string>
+    <string name="topup_game_icon_desc">Ikon untuk Topup Game</string>
+    <string name="e_wallet_icon_desc">Ikon untuk E-Wallet</string>
+    <string name="profile_icon_desc">Ikon untuk Profile</string>
+
+    <string-array name="operator_array">
+        <item>Telkomsel</item>
+        <item>Indosat</item>
+        <item>XL</item>
+        <item>Tri</item>
+        <item>Smartfren</item>
+        <item>Axis</item>
+    </string-array>
+
+    <string-array name="listrik_array">
+        <item>Token Listrik</item>
+        <item>Pascabayar</item>
+    </string-array>
+
+    <string-array name="game_array">
+        <item>Mobile Legends</item>
+        <item>PUBG Mobile</item>
+        <item>Free Fire</item>
+    </string-array>
+
+    <string-array name="ewallet_array">
+        <item>Dana</item>
+        <item>OVO</item>
+        <item>Shopee Pay</item>
+        <item>Gopay</item>
+        <item>Link Aja</item>
+    </string-array>
+</resources>
