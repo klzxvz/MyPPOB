@@ -10,4 +10,5 @@ Fitur Utama
 Lisensi
 Proyek ini dilisensikan di bawah lisensi MIT. Silakan lihat file LICENSE untuk detail lebih lanjut.
 
-copyright by AryonoPrihandito 2024
+copyright by © 2024 Aryono Prihandito
+
